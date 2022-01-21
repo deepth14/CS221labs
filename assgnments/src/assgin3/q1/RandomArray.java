@@ -1,4 +1,4 @@
-package q1;
+package CS221labs.assgnments.src.assgin3.q1;
 
 import javax.management.StandardEmitterMBean;
 import java.util.Arrays;

@@ -1,5 +1,3 @@
-package lab4;
-
 public class DoublelinkedList<E>
     {
         private Node<E> head = null;

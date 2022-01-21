@@ -1,3 +1,5 @@
+package CS221labs.assgnments.src.assgin3;
+
 public class StudentArray {
     private Student [] a;
     private int nElems;

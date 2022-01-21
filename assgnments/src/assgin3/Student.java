@@ -1,3 +1,5 @@
+package CS221labs.assgnments.src.assgin3;
+
 public class Student {
     private int id;
     private String name;

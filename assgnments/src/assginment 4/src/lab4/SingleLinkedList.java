@@ -1,5 +1,3 @@
-package lab4;
-
 public class SingleLinkedList <E> {
 
 
